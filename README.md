@@ -1,4 +1,4 @@
-Hi! My name is Gabriel and I love learn new things.
-I'm currently studying django/python by myself.
-You can contact me by my email: inexistentek@protonmail.com
+Hi! My name is Gabriel and I love to code crazy things.
+I'm currently studying django (python) by myself.
 
+#gambiarraSolvesProblems
